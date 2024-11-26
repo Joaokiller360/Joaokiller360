@@ -14,9 +14,10 @@ Aquí encontrarás una muestra de mi trabajo y pasión por el desarrollo web. Ex
 
 - [@Joaokiller360](https://www.github.com/Joaokiller360)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaokiller360&show_icons=true&theme=dark&locale=es)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaokiller360&layout=compact&theme=dark&locale=es)](https://github.com/Joaokiller360)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaokiller360&repo=web)](https://github.com/Joaokiller360/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaokiller360&repo=web&theme=dark&locale=es)](https://github.com/Joaokiller360/portfolio)
 
 <!--
 **Joaokiller360/Joaokiller360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
