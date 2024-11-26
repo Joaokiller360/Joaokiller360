@@ -10,9 +10,6 @@ Aquí encontrarás una muestra de mi trabajo y pasión por el desarrollo web. Ex
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-barres)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/J_o_a_o_B)
 
-### Autor
-
-- [@Joaokiller360](https://www.github.com/Joaokiller360)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaokiller360&show_icons=true&theme=dark&locale=es)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaokiller360&layout=compact&theme=dark&locale=es)](https://github.com/Joaokiller360)
