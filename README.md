@@ -10,11 +10,14 @@ Aquí encontrarás una muestra de mi trabajo y pasión por el desarrollo web. Ex
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-barres)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/J_o_a_o_B)
 
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaokiller360&show_icons=true&theme=dark&locale=es)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaokiller360&show_icons=true&theme=dark&locale=es) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaokiller360&layout=compact&theme=dark&locale=es)](https://github.com/Joaokiller360)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaokiller360&repo=web&theme=dark&locale=es)](https://github.com/Joaokiller360/portfolio)
+
+</div>
 
 <!--
 **Joaokiller360/Joaokiller360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
