@@ -15,7 +15,7 @@ Aquí encontrarás una muestra de mi trabajo y pasión por el desarrollo web. Ex
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaokiller360&show_icons=true&theme=dark&locale=es) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaokiller360&layout=compact&theme=dark&locale=es)](https://github.com/Joaokiller360)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaokiller360&repo=web&theme=dark&locale=es)](https://github.com/Joaokiller360/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaokiller360&repo=portfolio&theme=dark&locale=es)](https://github.com/Joaokiller360/portfolio)
 
 </div>
 
