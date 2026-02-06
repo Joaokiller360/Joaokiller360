@@ -1,35 +1,21 @@
-<div align='center'>
-  <h1 align='center'>Hola Devs Soy Joao Barres 👋</h1>
-</div>
+<h1 align="center">Hi 👋, I'm Joao Barres</h1>
+<h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-## 🚀 ¡Bienvenido a mi portafolio digital!
-Aquí encontrarás una muestra de mi trabajo y pasión por el desarrollo web. Explore y descubra cómo puedo agregar valor a todos tus proyecto.
+- 🔭 I’m currently working on [jb-skylens](https://dron.joaobarres.dev)
 
-### 🔗 Redes Sociales
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://joaobarres.dev)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-barres)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/J_o_a_o_B)
+- 🌱 I’m currently learning **SupaBase, Next.js, TailwindCss, Docker, Strapi**
 
-<div align="center">
+- 👨‍💻 All of my projects are available at [https://www.joaobarres.dev/](https://www.joaobarres.dev/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaokiller360&show_icons=true&theme=dark&locale=es) 
+- 📫 How to reach me **info@joaobarres.dev**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaokiller360&layout=compact&theme=dark&locale=es)](https://github.com/Joaokiller360)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joaokiller360&repo=protfolio-comunidad&theme=dark&locale=es)](https://github.com/Joaokiller360/portfolio)
+- 📄 Know about my experiences [https://www.joaobarres.dev/#projects](https://www.joaobarres.dev/#projects)
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/joao-barres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joao-barres" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/joao_barres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/joao_barres" height="30" width="40" /></a>
+</p>
 
-<!--
-**Joaokiller360/Joaokiller360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
